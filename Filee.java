@@ -5,6 +5,7 @@ public class Filee {
         File dir = new File("C://SomeDir");
 
         System.out.println(dir.isDirectory());
-
+        System.out.println();
+        System.out.println("churka");
     }
 }
