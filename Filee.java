@@ -7,5 +7,6 @@ public class Filee {
         System.out.println(dir.isDirectory());
         System.out.println();
         System.out.println("churka");
+        System.out.println("sadasdsadasdas");
     }
 }
