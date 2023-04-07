@@ -6,5 +6,7 @@ public class Filee {
 
         System.out.println(dir.isDirectory());
 
+        System.out.println("negr");
+
     }
 }
